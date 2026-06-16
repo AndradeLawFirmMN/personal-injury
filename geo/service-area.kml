@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Andrade Law PLLC service-area KML (STARTER). Real CID + real office coords.
+     The "core" placemark is an APPROXIMATE centroid, NOT a surveyed polygon —
+     replace with a QGIS export clipped to the real Ramsey County / municipal
+     boundary before any page calls this "QGIS-verified". Deploy target: /assets/service-area.kml -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Andrade Law PLLC — Service Area</name>
+    <description>Andrade Law PLLC, 1327 County Rd D Cir, Saint Paul, MN 55109. Personal injury representation across Ramsey County and the Twin Cities East Metro. Google Maps CID: 103159562730421070.</description>
+    <Placemark>
+      <name>Andrade Law PLLC — Office (S2 cell 52b2c)</name>
+      <description>1327 County Rd D Cir, Saint Paul, MN 55109. Verified office coordinates. Google Maps CID: 103159562730421070.</description>
+      <Point><coordinates>-93.0448194,45.0361576,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Andrade Law PLLC — Maplewood office (S2 cell 52b2c)</name>
+      <description>2079 County Rd D E, Maplewood, MN 55109. Branch / principal place of business (MN SOS assumed-name filing 2026-06-03). Shares S2 cell 52b2c with the Saint Paul office; own building cell 52b2d15c. No GBP listing yet.</description>
+      <Point><coordinates>-93.0125784,45.0361893,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint Paul core service area (S2 cell 87f7c) — APPROXIMATE</name>
+      <description>Approximate downtown Saint Paul / Ramsey County District Court litigation area. PLACEHOLDER centroid only — replace with a QGIS polygon clipped to the real Ramsey County / municipal boundary before treating this as authoritative.</description>
+      <Point><coordinates>-93.0900,44.9537,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
