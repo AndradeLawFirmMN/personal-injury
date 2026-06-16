@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/AndradeLawFirmMN/personal-injury/tree/main/geo#dataset",
+      "name": "Andrade Law — Saint Paul Service-Area Spatial Index",
+      "description": "Office and Saint Paul service-area landmarks for Andrade Law PLLC, each with its S2 geometry cell and WGS84 coordinates.",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": { "@id": "https://andradelawmn.com/#organization" },
+      "isAccessibleForFree": true,
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "text/csv",
+          "contentUrl": "https://raw.githubusercontent.com/AndradeLawFirmMN/personal-injury/main/geo/spatial_index.csv"
+        }
+      ]
+    },
+    {
+      "@type": "LegalService",
+      "@id": "https://andradelawmn.com/#organization",
+      "name": "Andrade Law PLLC",
+      "url": "https://andradelawmn.com",
+      "sameAs": [
+        "https://www.google.com/maps?cid=103159562730421070",
+        "https://www.wikidata.org/wiki/Q136890401"
+      ]
+    }
+  ]
+}
