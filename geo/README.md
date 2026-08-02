@@ -6,7 +6,7 @@ S2 cells are an open geometric indexing system, used here as geographic referenc
 
 ## Files
 - **`spatial_index.csv`** — office, Saint Paul core, Ramsey County District Court, Regions Hospital, State Capitol, and the Maplewood branch — with coordinates, S2 cells (L7/L10/L13), and verified Wikidata QIDs.
-- **`service-area.kml`** — office + core placemarks for Google Earth / Maps.
+- **`service-area.kml`** — the same six anchors as placemarks for Google Earth / Maps, each carrying its S2 cells and verified Wikidata QID in `ExtendedData`. A **point dataset — it contains no polygon**; the served geography is the city list on the [service-area methodology page](https://andradelawmn.com/resources/methodology/service-area/).
 - **`schema.jsonld`** — schema.org `Dataset` + `LegalService` graph.
 
 ## Provenance
