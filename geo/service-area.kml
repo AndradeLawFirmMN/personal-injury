@@ -7,7 +7,10 @@
      https://andradelawmn.com/resources/methodology/service-area/, not a surveyed
      boundary; do not describe this file as "QGIS-verified" until a boundary export
      clipped to the real Ramsey County / municipal boundary is added.
-     Deploy target: /assets/service-area.kml -->
+     Canonical home: https://raw.githubusercontent.com/AndradeLawFirmMN/personal-injury/main/geo/service-area.kml
+     — the URL the firm's schema hasMap resolves to. A move to
+     https://andradelawmn.com/assets/service-area.kml is planned, not built; that
+     path does not resolve today. -->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Andrade Law PLLC — Service Area</name>
