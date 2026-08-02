@@ -9,6 +9,16 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "creator": { "@id": "https://andradelawmn.com/#organization" },
       "isAccessibleForFree": true,
+      "spatialCoverage": {
+        "@type": "Place",
+        "name": "Ramsey County and the Twin Cities East Metro, Minnesota — the 17 municipalities Andrade Law PLLC serves",
+        "geo": {
+          "@type": "GeoShape",
+          "description": "Bounding envelope of the published municipal and county boundaries. The exact served geography is the polygon set in service-area.kml, not this rectangle.",
+          "box": "44.861909 -93.329109 45.124524 -92.785416"
+        },
+        "hasMap": "https://raw.githubusercontent.com/AndradeLawFirmMN/personal-injury/main/geo/service-area.kml"
+      },
       "distribution": [
         {
           "@type": "DataDownload",
