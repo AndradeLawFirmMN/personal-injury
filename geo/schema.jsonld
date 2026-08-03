@@ -24,13 +24,13 @@
           "@type": "DataDownload",
           "name": "spatial_index.csv",
           "encodingFormat": "text/csv",
-          "contentUrl": "https://raw.githubusercontent.com/AndradeLawFirmMN/personal-injury/main/geo/spatial_index.csv"
+          "contentUrl": "https://andradelawmn.com/assets/spatial_index.csv"
         },
         {
           "@type": "DataDownload",
           "name": "service-area.kml",
           "encodingFormat": "application/vnd.google-earth.kml+xml",
-          "contentUrl": "https://raw.githubusercontent.com/AndradeLawFirmMN/personal-injury/main/geo/service-area.kml"
+          "contentUrl": "https://andradelawmn.com/assets/service-area.kml"
         }
       ]
     },
