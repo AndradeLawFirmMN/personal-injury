@@ -17,7 +17,7 @@
           "description": "Bounding envelope of the published municipal and county boundaries. The exact served geography is the polygon set in service-area.kml, not this rectangle.",
           "box": "44.861909 -93.329109 45.124524 -92.785416"
         },
-        "hasMap": "https://raw.githubusercontent.com/AndradeLawFirmMN/personal-injury/main/geo/service-area.kml"
+        "hasMap": "https://andradelawmn.com/assets/service-area.kml"
       },
       "distribution": [
         {
