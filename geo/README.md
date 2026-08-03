@@ -5,6 +5,9 @@ Open spatial-reference data for [Andrade Law PLLC](https://andradelawmn.com), a 
 S2 cells are an open geometric indexing system, used here as geographic reference labels — **not** an official or administrative identifier.
 
 ## Files
+
+> **Canonical home:** these files are published by Andrade Law at <https://andradelawmn.com/assets/spatial_index.csv> and <https://andradelawmn.com/assets/service-area.kml>. The copies here are byte-identical mirrors — if they ever disagree, the andradelawmn.com copies win.
+
 - **`spatial_index.csv`** — office, Saint Paul core, Ramsey County District Court, Regions Hospital, State Capitol, and the Maplewood branch — with coordinates, S2 cells (L7/L10/L13), and verified Wikidata QIDs.
 - **`service-area.kml`** — the same six anchors as placemarks for Google Earth / Maps, each carrying its S2 cells and verified Wikidata QID in `ExtendedData`, **plus the boundary polygons of the 17 served municipalities and Ramsey County**.
 - **`schema.jsonld`** — schema.org `Dataset` + `LegalService` graph.
