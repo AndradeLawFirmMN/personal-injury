@@ -23,7 +23,7 @@
       <Data name="area_served"><value>Ramsey County, Minnesota</value></Data>
       <Data name="area_served_wikidata_qid"><value>Q491201</value></Data>
       <Data name="geometry_type"><value>points + municipal/county polygons</value></Data>
-      <Data name="point_source"><value>https://raw.githubusercontent.com/AndradeLawFirmMN/personal-injury/main/geo/spatial_index.csv</value></Data>
+      <Data name="point_source"><value>https://andradelawmn.com/assets/spatial_index.csv</value></Data>
       <Data name="boundary_source"><value>Counties and Cities &amp; Townships, Twin Cities Metropolitan Area — Metropolitan Council / MetroGIS</value></Data>
       <Data name="boundary_source_url"><value>https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metro-counties-and-ctus</value></Data>
       <Data name="boundary_license"><value>Public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13)</value></Data>
