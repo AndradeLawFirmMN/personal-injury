@@ -3,11 +3,13 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://github.com/AndradeLawFirmMN/personal-injury/tree/main/geo#dataset",
+      "@id": "https://andradelawmn.com/resources/methodology/service-area/#dataset",
       "name": "Andrade Law — Saint Paul Service-Area Spatial Index",
       "description": "Office and Saint Paul service-area landmarks for Andrade Law PLLC, each with its S2 geometry cell and WGS84 coordinates, plus the boundary polygons of the 17 served municipalities and Ramsey County.",
       "license": "https://creativecommons.org/licenses/by/4.0/",
-      "creator": { "@id": "https://andradelawmn.com/#organization" },
+      "creator": {
+        "@id": "https://andradelawmn.com/#organization"
+      },
       "isAccessibleForFree": true,
       "spatialCoverage": {
         "@type": "Place",
@@ -32,6 +34,11 @@
           "encodingFormat": "application/vnd.google-earth.kml+xml",
           "contentUrl": "https://andradelawmn.com/assets/service-area.kml"
         }
+      ],
+      "url": "https://andradelawmn.com/resources/methodology/service-area/",
+      "sameAs": [
+        "https://github.com/AndradeLawFirmMN/personal-injury/tree/main/geo",
+        "https://huggingface.co/datasets/Gabe-Andrade-Attorney/andrade-law-saint-paul-spatial-index"
       ]
     },
     {
