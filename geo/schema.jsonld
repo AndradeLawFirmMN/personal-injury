@@ -7,9 +7,14 @@
       "name": "Andrade Law — Saint Paul Service-Area Spatial Index",
       "description": "Office and Saint Paul service-area landmarks for Andrade Law PLLC, each with its S2 geometry cell and WGS84 coordinates, plus the boundary polygons of the 17 served municipalities and Ramsey County.",
       "license": "https://creativecommons.org/licenses/by/4.0/",
-      "creator": {
-        "@id": "https://andradelawmn.com/#organization"
-      },
+      "creator": [
+        {
+          "@id": "https://andradelawmn.com/#organization"
+        },
+        {
+          "@id": "https://andradelawmn.com/gabe-andrade/#person"
+        }
+      ],
       "isAccessibleForFree": true,
       "spatialCoverage": {
         "@type": "Place",
@@ -47,7 +52,19 @@
       "name": "Andrade Law PLLC",
       "url": "https://andradelawmn.com",
       "sameAs": [
-        "https://www.google.com/maps?cid=103159562730421070",
+        "https://www.google.com/maps?cid=103159562730421070"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://andradelawmn.com/gabe-andrade/#person",
+      "name": "Gabriel Eduardo Andrade",
+      "url": "https://andradelawmn.com/gabe-andrade/",
+      "worksFor": {
+        "@id": "https://andradelawmn.com/#organization"
+      },
+      "sameAs": [
+        "https://orcid.org/0009-0006-5204-3645",
         "https://www.wikidata.org/wiki/Q136890401"
       ]
     }
