@@ -1,0 +1,43 @@
+{
+  "title": "Andrade Law — Saint Paul Service-Area Spatial Index",
+  "upload_type": "dataset",
+  "description": "<p>Open spatial-reference data for the Saint Paul and East Metro service area of Andrade Law PLLC, a personal injury law firm in Minnesota.</p><p>Six geocoded anchors &mdash; the Saint Paul and Maplewood offices, the service-area core, Ramsey County District Court, Regions Hospital, and the Minnesota State Capitol &mdash; each with WGS84 coordinates, S2 Geometry cell tokens at levels 7, 10 and 13, and verified Wikidata identifiers. Also includes the boundary polygons of the 17 served municipalities and of Ramsey County.</p><p><strong>Provenance.</strong> Coordinates geocoded via the Google Geocoding API; S2 cells computed with s2sphere and round-trip validated. Boundary polygons are exported unsimplified from the Metropolitan Council / MetroGIS layer &quot;Counties and Cities &amp; Townships, Twin Cities Metropolitan Area&quot;, reprojected NAD83/UTM zone 15N to WGS84 at 6-decimal precision. That source is public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13).</p><p>This is a law firm's published service-area reference index, not a research dataset. It is released openly because the geography behind a service-area claim should be checkable.</p>",
+  "creators": [
+    {
+      "name": "Andrade, Gabriel Eduardo",
+      "orcid": "0009-0006-5204-3645",
+      "affiliation": "Andrade Law PLLC"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "Saint Paul",
+    "Ramsey County",
+    "Minnesota",
+    "service area",
+    "municipal boundaries",
+    "S2 Geometry",
+    "spatial index",
+    "open data",
+    "legal geography"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://andradelawmn.com/resources/methodology/service-area/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metro-counties-and-ctus",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://andradelawmn.com/assets/spatial_index.csv",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Boundary geometry derived from Metropolitan Council / MetroGIS published linework, public domain under Minn. Stat. ch. 13. The canonical copies of these files are served at https://andradelawmn.com/assets/ ; this deposit is a citable archive of them."
+}
