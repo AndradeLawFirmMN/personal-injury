@@ -52,7 +52,17 @@
       "name": "Andrade Law PLLC",
       "url": "https://andradelawmn.com",
       "sameAs": [
-        "https://www.google.com/maps?cid=103159562730421070"
+        "https://www.google.com/maps?cid=103159562730421070",
+        "https://www.google.com/search?kgmid=/g/11ylgdnjys",
+        "https://maps.apple/p/4RVCen4ysn3qWg"
+      ],
+      "founder": {
+        "@id": "https://andradelawmn.com/gabe-andrade/#person"
+      },
+      "employee": [
+        {
+          "@id": "https://andradelawmn.com/gabe-andrade/#person"
+        }
       ]
     },
     {
@@ -65,8 +75,11 @@
       },
       "sameAs": [
         "https://orcid.org/0009-0006-5204-3645",
-        "https://www.wikidata.org/wiki/Q136890401"
-      ]
+        "https://www.wikidata.org/wiki/Q136890401",
+        "https://www.google.com/search?kgmid=/g/11yrwsl05j",
+        "https://mars.courts.state.mn.us/AttorneyDetail.aspx?attyID=0402606"
+      ],
+      "jobTitle": "Founder/Managing Attorney"
     }
   ]
 }
