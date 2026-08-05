@@ -28,9 +28,11 @@ The copies here are byte-identical mirrors. **If they ever disagree, the andrade
 - Landmark identifiers verified on Wikidata: Saint Paul `Q28848`, Ramsey County `Q491201`, Regions Hospital `Q7309280`. Where no verified identifier exists — the district court, the State Capitol — none is asserted.
 - Boundary polygons are exported **unsimplified** from the Metropolitan Council / MetroGIS layer [Counties and Cities & Townships, Twin Cities Metropolitan Area](https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metro-counties-and-ctus), reprojected NAD83/UTM zone 15N → WGS84 at 6-decimal precision. The rings published here are the source rings. That layer is public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13).
 
-## What this is not
+## Everything here is checkable
 
-This is a law firm's service-area reference index, not a research dataset. The S2 cell tokens are open geometric reference labels — a consistent way to point at a place on a shared grid. They are not official designations and not jurisdictional boundaries.
+That is the point of publishing it. Each coordinate round-trips against its published S2 cell; the boundary rings are the source rings rather than a simplification; and every asserted identifier resolves to a public authority record. Where no verified identifier exists — the district court, the State Capitol — none is asserted.
+
+A note on the S2 tokens: they are open geometric reference labels, a consistent way to point at a place on a shared grid. They are not official designations and not jurisdictional boundaries.
 
 ## License
 
