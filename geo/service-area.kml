@@ -16,7 +16,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Andrade Law PLLC — Service Area</name>
-    <description>Andrade Law PLLC, 1327 County Rd D Cir, Saint Paul, MN 55109. Personal injury representation across Ramsey County and the Twin Cities East Metro. Six mapped anchors (two offices, the Saint Paul service-area core, three landmarks) plus the boundaries of the 17 served municipalities and Ramsey County. Google Maps CID: 103159562730421070. Point source: spatial_index.csv. Boundary source: Counties and Cities &amp; Townships, Twin Cities Metropolitan Area — Metropolitan Council / MetroGIS (Public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13)).</description>
+    <description>Andrade Law PLLC, 1327 County Rd D Cir, Saint Paul, MN 55109. Personal injury representation across Ramsey County and the Twin Cities East Metro. Thirteen mapped points — two offices, the Saint Paul service-area core, and ten landmarks drawn from the firm's points-of-interest guides (one, Regency Hospital, lies outside the service boundary in Golden Valley) — plus the boundaries of the 17 served municipalities and Ramsey County. Google Maps CID: 103159562730421070. Point source: spatial_index.csv. Boundary source: Counties and Cities &amp; Townships, Twin Cities Metropolitan Area — Metropolitan Council / MetroGIS (Public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13)).</description>
     <ExtendedData>
       <Data name="firm"><value>Andrade Law PLLC</value></Data>
       <Data name="google_cid"><value>103159562730421070</value></Data>
@@ -151,6 +151,126 @@
           <Data name="coord_precision"><value>verified</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.102222,44.955275,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Xcel Energy Center (S2 cell 87f64)</name>
+        <description>199 W Kellogg Blvd, Saint Paul, MN. Multi-purpose arena on the western edge of downtown; sits in adjacent S2 L7 cell 87f64 with the Capitol, not the 87f7c core. Geocoded 2026-08-13. Wikidata: Q1421388, coordinate-verified (the venue has since been renamed Grand Casino Arena).</description>
+        <ExtendedData>
+          <Data name="node_id"><value>N8</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>199 W Kellogg Blvd</value></Data>
+          <Data name="locality"><value>Saint Paul</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f64</value></Data>
+          <Data name="s2_l10"><value>87f62b</value></Data>
+          <Data name="s2_l13"><value>87f62ab4</value></Data>
+          <Data name="wikidata_qid"><value>Q1421388</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/xcel-energy-center/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.1011481,44.9449011,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Paul Impound Lot (S2 cell 87f7c)</name>
+        <description>830 Barge Channel Rd, Saint Paul, MN. City vehicle impound facility. Geocoded 2026-08-13. No Wikidata QID is asserted; none was verified for this node.</description>
+        <ExtendedData>
+          <Data name="node_id"><value>N9</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>830 Barge Channel Rd</value></Data>
+          <Data name="locality"><value>Saint Paul</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f7c</value></Data>
+          <Data name="s2_l10"><value>87f7d5</value></Data>
+          <Data name="s2_l13"><value>87f7d454</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/st-paul-impound-lot/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0555431,44.9203326,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Regency Hospital of Minneapolis (S2 cell 52b34)</name>
+        <description>1300 Hidden Lakes Pkwy, Golden Valley, MN (Hennepin County). Long-term acute-care hospital — the one mapped point outside the published service boundary. Geocoded 2026-08-13. No Wikidata QID is asserted.</description>
+        <ExtendedData>
+          <Data name="node_id"><value>N10</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>1300 Hidden Lakes Pkwy</value></Data>
+          <Data name="locality"><value>Golden Valley</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b34</value></Data>
+          <Data name="s2_l10"><value>52b333</value></Data>
+          <Data name="s2_l13"><value>52b33384</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/regency-hospital/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.3337568,44.9922895,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>M Health Fairview St. John's Hospital (S2 cell 52b2c)</name>
+        <description>1575 Beam Ave, Maplewood, MN. Acute-care community hospital on the Beam Avenue medical corridor; shares S2 L7 cell 52b2c with both offices. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.</description>
+        <ExtendedData>
+          <Data name="node_id"><value>N11</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>1575 Beam Ave</value></Data>
+          <Data name="locality"><value>Maplewood</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b2c</value></Data>
+          <Data name="s2_l10"><value>52b2d5</value></Data>
+          <Data name="s2_l13"><value>52b2d404</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/st-johns-hospital/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0342008,45.0290991,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Summit Orthopedics Woodbury (S2 cell 87f7c)</name>
+        <description>2090 Woodwinds Dr, Woodbury, MN (Washington County). Orthopedic urgent-care clinic at the Woodwinds medical campus. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.</description>
+        <ExtendedData>
+          <Data name="node_id"><value>N12</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>2090 Woodwinds Dr</value></Data>
+          <Data name="locality"><value>Woodbury</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f7c</value></Data>
+          <Data name="s2_l10"><value>87f7d7</value></Data>
+          <Data name="s2_l13"><value>87f7d6fc</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/summit-orthopedics-woodbury/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-92.981104,44.9183152,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>The Urgency Room — Vadnais Heights (S2 cell 52b2c)</name>
+        <description>1159 County Rd E East, Vadnais Heights, MN. Walk-in emergency-level urgent care on the County Road E corridor. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.</description>
+        <ExtendedData>
+          <Data name="node_id"><value>N13</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>1159 County Rd E East</value></Data>
+          <Data name="locality"><value>Vadnais Heights</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b2c</value></Data>
+          <Data name="s2_l10"><value>52b2d7</value></Data>
+          <Data name="s2_l13"><value>52b2d694</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/urgency-room-vadnais-heights/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0518335,45.050745,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Paul Police Department HQ (S2 cell 87f7c)</name>
+        <description>367 Grove St, Saint Paul, MN. Police headquarters and crash-report records counter. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted (Q6375858 identifies the police force, not the building).</description>
+        <ExtendedData>
+          <Data name="node_id"><value>N14</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>367 Grove St</value></Data>
+          <Data name="locality"><value>Saint Paul</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f7c</value></Data>
+          <Data name="s2_l10"><value>87f7d5</value></Data>
+          <Data name="s2_l13"><value>87f7d55c</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/st-paul-police-headquarters/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0872498,44.9560979,0</coordinates></Point>
       </Placemark>
     </Folder>
     <Folder>
