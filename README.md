@@ -8,7 +8,7 @@ Everything lives in [`geo/`](geo/).
 
 | File | Contents |
 |---|---|
-| [`geo/spatial_index.csv`](geo/spatial_index.csv) | 14 nodes — both offices, the Saint Paul service-area core, Ramsey County, and ten landmarks (the district court, Regions Hospital, the State Capitol, and seven from the firm's points-of-interest guides) — with WGS84 coordinates, S2 cells (L7/L10/L13), and verified Wikidata QIDs where one exists |
+| [`geo/spatial_index.csv`](geo/spatial_index.csv) | 14 nodes — both offices, the Saint Paul service-area core, Ramsey County, and ten landmarks (the district court, Regions Hospital, the State Capitol, and seven from the firm's points-of-interest guides) — with WGS84 coordinates, S2 cells (L7/L10/L13), verified Wikidata QIDs where one exists, and photo URLs where the firm has published real photographs (the linked images are © Andrade Law PLLC, not part of the CC-BY dataset) |
 | [`geo/service-area.kml`](geo/service-area.kml) | The 13 coordinate-bearing nodes as placemarks **plus** the boundary polygons of the 17 served municipalities and Ramsey County |
 | [`geo/schema.jsonld`](geo/schema.jsonld) | schema.org `Dataset` + `LegalService` graph |
 | [`geo/README.md`](geo/README.md) | Field-level detail and provenance |
