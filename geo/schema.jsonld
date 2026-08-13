@@ -5,7 +5,7 @@
       "@type": "Dataset",
       "@id": "https://andradelawmn.com/resources/methodology/service-area/#dataset",
       "name": "Andrade Law — Saint Paul Service-Area Spatial Index",
-      "description": "Office and Saint Paul service-area landmarks for Andrade Law PLLC, each with its S2 geometry cell and WGS84 coordinates, plus the boundary polygons of the 17 served municipalities and Ramsey County.",
+      "description": "Thirteen mapped points for Andrade Law PLLC — both offices, the Saint Paul service-area core, and ten landmarks drawn from the firm's points-of-interest guides — each with its S2 geometry cells and WGS84 coordinates, plus the boundary polygons of the 17 served municipalities and Ramsey County.",
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "creator": [
         {
@@ -21,8 +21,8 @@
         "name": "Ramsey County and the Twin Cities East Metro, Minnesota — the 17 municipalities Andrade Law PLLC serves",
         "geo": {
           "@type": "GeoShape",
-          "description": "Bounding envelope of the published municipal and county boundaries. The exact served geography is the polygon set in service-area.kml, not this rectangle.",
-          "box": "44.861909 -93.329109 45.124524 -92.785416"
+          "description": "Bounding envelope of the published municipal and county boundaries and all mapped points (one landmark, Regency Hospital in Golden Valley, lies west of the served municipalities). The exact served geography is the polygon set in service-area.kml, not this rectangle.",
+          "box": "44.861909 -93.333757 45.124524 -92.785416"
         },
         "hasMap": "https://andradelawmn.com/assets/service-area.kml"
       },
