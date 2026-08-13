@@ -28,7 +28,8 @@
       <Data name="boundary_source_url"><value>https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metro-counties-and-ctus</value></Data>
       <Data name="boundary_license"><value>Public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13)</value></Data>
       <Data name="boundary_processing"><value>GDAL/OGR (QGIS) export, no simplification, NAD83/UTM15N -&gt; WGS84, 6-decimal precision</value></Data>
-      <Data name="license"><value>CC-BY-4.0 — attribute to Andrade Law PLLC</value></Data>
+      <Data name="logo_url"><value>https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png</value></Data>
+      <Data name="license"><value>CC-BY-4.0 — attribute to Andrade Law PLLC; photos referenced by URL remain (c) Andrade Law PLLC, all rights reserved</value></Data>
     </ExtendedData>
     <Style id="servedCity">
       <LineStyle><color>ff794e1f</color><width>2</width></LineStyle>
@@ -43,7 +44,7 @@
       <name>Offices</name>
       <Placemark>
         <name>Andrade Law PLLC — Office (S2 cell 52b2c)</name>
-        <description>1327 County Rd D Cir, Saint Paul, MN 55109. Verified office coordinates. Google Maps CID: 103159562730421070.</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png" width="360" alt=""/><br/>1327 County Rd D Cir, Saint Paul, MN 55109. Verified office coordinates. Google Maps CID: 103159562730421070.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N1</value></Data>
           <Data name="role"><value>office</value></Data>
@@ -61,7 +62,7 @@
       </Placemark>
       <Placemark>
         <name>Andrade Law PLLC — Maplewood office (S2 cell 52b2c)</name>
-        <description>2079 County Rd D E, Maplewood, MN 55109. Branch / principal place of business (MN SOS assumed-name filing 2026-06-03). Shares S2 cell 52b2c with the 1327 office; own building cell 52b2d15c. Google Maps CID: 2952978666985232877.</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png" width="360" alt=""/><br/>2079 County Rd D E, Maplewood, MN 55109. Branch / principal place of business (MN SOS assumed-name filing 2026-06-03). Shares S2 cell 52b2c with the 1327 office; own building cell 52b2d15c. Google Maps CID: 2952978666985232877.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N7</value></Data>
           <Data name="role"><value>office</value></Data>
@@ -103,7 +104,7 @@
       <name>Landmarks</name>
       <Placemark>
         <name>Ramsey County District Court (S2 cell 87f7c)</name>
-        <description>15 W Kellogg Blvd, Saint Paul, MN. Home venue for the firm's Ramsey County matters. Geocoded 2026-06-15. No Wikidata item exists for the court; the county anchor is Q491201.</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/ramsey-county-courthouse-andrade-law-branded.jpg" width="360" alt=""/><br/>15 W Kellogg Blvd, Saint Paul, MN. Home venue for the firm's Ramsey County matters. Geocoded 2026-06-15. No Wikidata item exists for the court; the county anchor is Q491201.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N3</value></Data>
           <Data name="role"><value>landmark</value></Data>
@@ -115,6 +116,8 @@
           <Data name="s2_l13"><value>87f7d54c</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/locations/saint-paul/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/ramsey-county-courthouse-saint-paul-mn-05.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/ramsey-county-courthouse-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.093683,44.944019,0</coordinates></Point>
       </Placemark>
@@ -206,7 +209,7 @@
       </Placemark>
       <Placemark>
         <name>M Health Fairview St. John's Hospital (S2 cell 52b2c)</name>
-        <description>1575 Beam Ave, Maplewood, MN. Acute-care community hospital on the Beam Avenue medical corridor; shares S2 L7 cell 52b2c with both offices. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/st-johns-hospital-andrade-law-branded.jpg" width="360" alt=""/><br/>1575 Beam Ave, Maplewood, MN. Acute-care community hospital on the Beam Avenue medical corridor; shares S2 L7 cell 52b2c with both offices. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N11</value></Data>
           <Data name="role"><value>landmark</value></Data>
@@ -218,12 +221,14 @@
           <Data name="s2_l13"><value>52b2d404</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/st-johns-hospital/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/mhealth-fairview-st-johns-maplewood-mn-01.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/st-johns-hospital-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0342008,45.0290991,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Summit Orthopedics Woodbury (S2 cell 87f7c)</name>
-        <description>2090 Woodwinds Dr, Woodbury, MN (Washington County). Orthopedic urgent-care clinic at the Woodwinds medical campus. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/summit-orthopedics-woodbury-andrade-law-branded.jpg" width="360" alt=""/><br/>2090 Woodwinds Dr, Woodbury, MN (Washington County). Orthopedic urgent-care clinic at the Woodwinds medical campus. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N12</value></Data>
           <Data name="role"><value>landmark</value></Data>
@@ -235,12 +240,14 @@
           <Data name="s2_l13"><value>87f7d6fc</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/summit-orthopedics-woodbury/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/summit-orthopedics-woodbury-mn-01.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/summit-orthopedics-woodbury-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-92.981104,44.9183152,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>The Urgency Room — Vadnais Heights (S2 cell 52b2c)</name>
-        <description>1159 County Rd E East, Vadnais Heights, MN. Walk-in emergency-level urgent care on the County Road E corridor. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/urgency-room-vadnais-heights-andrade-law-branded.jpg" width="360" alt=""/><br/>1159 County Rd E East, Vadnais Heights, MN. Walk-in emergency-level urgent care on the County Road E corridor. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N13</value></Data>
           <Data name="role"><value>landmark</value></Data>
@@ -252,12 +259,14 @@
           <Data name="s2_l13"><value>52b2d694</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/urgency-room-vadnais-heights/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/urgency-room-vadnais-heights-mn-03.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/urgency-room-vadnais-heights-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0518335,45.050745,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Saint Paul Police Department HQ (S2 cell 87f7c)</name>
-        <description>367 Grove St, Saint Paul, MN. Police headquarters and crash-report records counter. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted (Q6375858 identifies the police force, not the building).</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/st-paul-police-headquarters-andrade-law-branded.jpg" width="360" alt=""/><br/>367 Grove St, Saint Paul, MN. Police headquarters and crash-report records counter. Wave-1 POI coordinates (2026-07-14), S2 re-verified 2026-08-13. No Wikidata QID is asserted (Q6375858 identifies the police force, not the building).]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N14</value></Data>
           <Data name="role"><value>landmark</value></Data>
@@ -269,6 +278,8 @@
           <Data name="s2_l13"><value>87f7d55c</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/st-paul-police-headquarters/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/st-paul-police-headquarters-mn-01.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/st-paul-police-headquarters-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0872498,44.9560979,0</coordinates></Point>
       </Placemark>
