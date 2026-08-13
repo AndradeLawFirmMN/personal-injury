@@ -8,7 +8,7 @@ S2 cells are an open geometric indexing system, used here as geographic referenc
 
 > **Canonical home:** these files are published by Andrade Law at <https://andradelawmn.com/assets/spatial_index.csv> and <https://andradelawmn.com/assets/service-area.kml>. The copies here are byte-identical mirrors — if they ever disagree, the andradelawmn.com copies win.
 
-- **`spatial_index.csv`** — 14 nodes: both offices, the Saint Paul core, Ramsey County (document-level area), and ten landmarks — the district court, Regions Hospital, the State Capitol, and seven drawn from the firm's published points-of-interest guides — with coordinates, S2 cells (L7/L10/L13), and verified Wikidata QIDs where one exists. One landmark (Regency Hospital, Golden Valley) lies outside the service boundary.
+- **`spatial_index.csv`** — 14 nodes: both offices, the Saint Paul core, Ramsey County (document-level area), and ten landmarks — the district court, Regions Hospital, the State Capitol, and seven drawn from the firm's published points-of-interest guides — with coordinates, S2 cells (L7/L10/L13), verified Wikidata QIDs where one exists, and `photo_url`/`branded_photo_url` links to the firm's real photographs where published. One landmark (Regency Hospital, Golden Valley) lies outside the service boundary. The photo URLs point at images hosted by the firm; the images themselves are © Andrade Law PLLC and are **not** part of this CC-BY dataset.
 - **`service-area.kml`** — the 13 coordinate-bearing nodes as placemarks for Google Earth / Maps, each carrying its S2 cells and verified Wikidata QID in `ExtendedData`, **plus the boundary polygons of the 17 served municipalities and Ramsey County**.
 - **`schema.jsonld`** — schema.org `Dataset` + `LegalService` graph.
 
