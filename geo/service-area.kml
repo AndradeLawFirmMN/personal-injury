@@ -141,7 +141,7 @@
       </Placemark>
       <Placemark>
         <name>Minnesota State Capitol (S2 cell 87f64)</name>
-        <description>75 Rev Dr Martin Luther King Jr Blvd, Saint Paul, MN. Geocoded 2026-06-15. Sits in the adjacent S2 L7 cell 87f64 — NOT in the 87f7c core cell. No Wikidata QID is asserted here because none was verified for this node.</description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/minnesota-state-capitol-saint-paul-andrade-law-branded.jpg" width="360" alt=""/><br/>75 Rev Dr Martin Luther King Jr Blvd, Saint Paul, MN. Geocoded 2026-06-15. Sits in the adjacent S2 L7 cell 87f64 — NOT in the 87f7c core cell. No Wikidata QID is asserted here because none was verified for this node.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N6</value></Data>
           <Data name="role"><value>landmark</value></Data>
@@ -151,7 +151,11 @@
           <Data name="s2_l7"><value>87f64</value></Data>
           <Data name="s2_l10"><value>87f62b</value></Data>
           <Data name="s2_l13"><value>87f62aac</value></Data>
+          <Data name="wikidata_qid"><value>Q1789816</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/minnesota-state-capitol/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/minnesota-state-capitol-saint-paul-mn-05.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/minnesota-state-capitol-saint-paul-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.102222,44.955275,0</coordinates></Point>
       </Placemark>
@@ -282,6 +286,161 @@
           <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/st-paul-police-headquarters-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0872498,44.9560979,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Vadnais Heights City Hall (S2 cell 52b2c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/vadnais-heights-city-hall-andrade-law-branded.jpg" width="360" alt=""/><br/>Vadnais Heights City Hall, 800 East County Road E, Vadnais Heights, MN 55127. Municipal building: City Council Chambers, permits, and public data requests. Dedicated June 14, 2001.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N15</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>800 East County Road E</value></Data>
+          <Data name="locality"><value>Vadnais Heights</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b2c</value></Data>
+          <Data name="s2_l10"><value>52b2d7</value></Data>
+          <Data name="s2_l13"><value>52b2d68c</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/vadnais-heights-city-hall/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/vadnais-heights-city-hall-mn-13.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/vadnais-heights-city-hall-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0672751,45.0494787,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Minnesota Judicial Center (S2 cell 87f64)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/minnesota-judicial-center-saint-paul-andrade-law-branded.jpg" width="360" alt=""/><br/>Minnesota Judicial Center, 25 Rev. Dr. Martin Luther King Jr. Blvd., Saint Paul, MN 55155. The state appellate courthouse: Minnesota Supreme Court, Court of Appeals, and State Law Library, in the Capitol Complex.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N16</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>25 Rev. Dr. Martin Luther King Jr. Blvd.</value></Data>
+          <Data name="locality"><value>Saint Paul</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f64</value></Data>
+          <Data name="s2_l10"><value>87f62b</value></Data>
+          <Data name="s2_l13"><value>87f62aac</value></Data>
+          <Data name="wikidata_qid"><value>Q6868332</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/minnesota-judicial-center/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/minnesota-judicial-center-saint-paul-mn-04.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/minnesota-judicial-center-saint-paul-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.1004432,44.954466,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Maplewood Police Department (S2 cell 52b2c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/maplewood-police-department-andrade-law-branded.jpg" width="360" alt=""/><br/>Maplewood Police Department at Maplewood City Hall, 1830 County Road B East, Maplewood, MN 55109. The Records Unit releases crash and police reports.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N17</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>1830 County Road B East</value></Data>
+          <Data name="locality"><value>Maplewood</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b2c</value></Data>
+          <Data name="s2_l10"><value>52b2d3</value></Data>
+          <Data name="s2_l13"><value>52b2d384</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/maplewood-police-department/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/maplewood-police-department-mn-07.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/maplewood-police-department-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0211425,45.0036267,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Gillette Children's (S2 cell 87f7c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/gillette-childrens-specialty-saint-paul-andrade-law-branded.jpg" width="360" alt=""/><br/>Gillette Children's, 200 University Avenue East, Saint Paul, MN 55101. Independent pediatric specialty hospital on the Regions Hospital campus; with Regions, Minnesota's first Level I Pediatric Trauma Center.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N18</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>200 University Avenue East</value></Data>
+          <Data name="locality"><value>Saint Paul</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f7c</value></Data>
+          <Data name="s2_l10"><value>87f7d5</value></Data>
+          <Data name="s2_l13"><value>87f7d554</value></Data>
+          <Data name="wikidata_qid"><value>Q5562147</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/gillette-childrens/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/gillette-childrens-specialty-saint-paul-mn-02.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/gillette-childrens-specialty-saint-paul-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0954062,44.9570807,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>M Health Fairview Woodwinds Hospital (S2 cell 87f7c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/mhealth-woodwinds-hospital-woodbury-andrade-law-branded.jpg" width="360" alt=""/><br/>M Health Fairview Woodwinds Hospital, 1925 Woodwinds Drive, Woodbury, MN 55125 (Washington County). 86-bed community hospital, 24-hour emergency department, state-designated Level 4 trauma hospital.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N19</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>1925 Woodwinds Drive</value></Data>
+          <Data name="locality"><value>Woodbury</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f7c</value></Data>
+          <Data name="s2_l10"><value>87f7d7</value></Data>
+          <Data name="s2_l13"><value>87f7d704</value></Data>
+          <Data name="wikidata_qid"><value>Q14956807</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/woodwinds-hospital/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/mhealth-woodwinds-hospital-woodbury-mn-06.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/mhealth-woodwinds-hospital-woodbury-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-92.9761901,44.9223584,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodbury Public Safety Department (S2 cell 87f7c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/woodbury-police-department-andrade-law-branded.jpg" width="360" alt=""/><br/>Woodbury Public Safety Department, 2100 Radio Drive, Woodbury, MN 55125 (Washington County). Integrated police/fire/EMS; crash reports via the city's online records portal. Campus under reconstruction through approximately 2028.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N20</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>2100 Radio Drive</value></Data>
+          <Data name="locality"><value>Woodbury</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>87f7c</value></Data>
+          <Data name="s2_l10"><value>87f7d9</value></Data>
+          <Data name="s2_l13"><value>87f7d9d4</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/woodbury-police-department/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/woodbury-police-department-mn-07.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/woodbury-police-department-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-92.934694,44.9184122,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Buerkle Honda (S2 cell 52b2c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/buerkle-honda-andrade-law-branded.jpg" width="360" alt=""/><br/>Buerkle Honda, 3360 Highway 61 N, Vadnais Heights, MN 55110. Family-owned Honda dealership (franchise since 1973) with an on-campus collision center. Municipality per Ramsey County parcel record.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N21</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>3360 Highway 61 N</value></Data>
+          <Data name="locality"><value>Vadnais Heights</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b2c</value></Data>
+          <Data name="s2_l10"><value>52b2d7</value></Data>
+          <Data name="s2_l13"><value>52b2d6a4</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/buerkle-honda/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/buerkle-honda-mn-04.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/buerkle-honda-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.03724509999999,45.0427985,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Discount Tire (Maplewood) (S2 cell 52b2c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/poi/discount-tire-maplewood-andrade-law-branded.jpg" width="360" alt=""/><br/>Discount Tire, 2570 White Bear Ave N, Maplewood, MN 55109. Tire and wheel store on the White Bear Avenue corridor.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N22</value></Data>
+          <Data name="role"><value>landmark</value></Data>
+          <Data name="street_address"><value>2570 White Bear Ave N</value></Data>
+          <Data name="locality"><value>Maplewood</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b2c</value></Data>
+          <Data name="s2_l10"><value>52b2d3</value></Data>
+          <Data name="s2_l13"><value>52b2d3f4</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/resources/points-of-interest/discount-tire-maplewood/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/poi/discount-tire-maplewood-mn-02.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/poi/discount-tire-maplewood-andrade-law-branded.jpg</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0190418,45.0177889,0</coordinates></Point>
       </Placemark>
     </Folder>
     <Folder>
