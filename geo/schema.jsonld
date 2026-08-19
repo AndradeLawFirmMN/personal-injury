@@ -5,7 +5,7 @@
       "@type": "Dataset",
       "@id": "https://andradelawmn.com/resources/methodology/service-area/#dataset",
       "name": "Andrade Law — Saint Paul Service-Area Spatial Index",
-      "description": "Thirteen mapped points for Andrade Law PLLC — both offices, the Saint Paul service-area core, and ten landmarks drawn from the firm's points-of-interest guides — each with its S2 geometry cells and WGS84 coordinates, plus the boundary polygons of the 17 served municipalities and Ramsey County.",
+      "description": "Twenty-one mapped points for Andrade Law PLLC — both offices, the Saint Paul service-area core, and eighteen landmarks drawn from the firm's points-of-interest guides — each with its S2 geometry cells and WGS84 coordinates, plus the boundary polygons of the 17 served municipalities and Ramsey County.",
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "creator": [
         {
