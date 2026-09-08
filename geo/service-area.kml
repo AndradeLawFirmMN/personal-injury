@@ -16,7 +16,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Andrade Law PLLC — Service Area</name>
-    <description>Andrade Law PLLC, 1327 County Rd D Cir, Saint Paul, MN 55109. Personal injury representation across Ramsey County and the Twin Cities East Metro. Thirteen mapped points — two offices, the Saint Paul service-area core, and ten landmarks drawn from the firm's points-of-interest guides (one, Regency Hospital, lies outside the service boundary in Golden Valley) — plus the boundaries of the 17 served municipalities and Ramsey County. Google Maps CID: 103159562730421070. Point source: spatial_index.csv. Boundary source: Counties and Cities &amp; Townships, Twin Cities Metropolitan Area — Metropolitan Council / MetroGIS (Public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13)).</description>
+    <description>Andrade Law PLLC, 1327 County Rd D Cir, Saint Paul, MN 55109. Personal injury representation across Ramsey County and the Twin Cities East Metro. Twenty-three mapped points — four offices (Saint Paul, Maplewood, Little Canada, Minneapolis), the Saint Paul service-area core, and eighteen landmarks drawn from the firm's points-of-interest guides (one, Regency Hospital, lies outside the service boundary in Golden Valley; the Minneapolis office sits in Hennepin County, outside the published Ramsey County polygons) — plus the boundaries of the 17 served municipalities and Ramsey County. Google Maps CID: 103159562730421070. Point source: spatial_index.csv. Boundary source: Counties and Cities &amp; Townships, Twin Cities Metropolitan Area — Metropolitan Council / MetroGIS (Public domain under the Minnesota Government Data Practices Act (Minn. Stat. ch. 13)).</description>
     <ExtendedData>
       <Data name="firm"><value>Andrade Law PLLC</value></Data>
       <Data name="google_cid"><value>103159562730421070</value></Data>
@@ -77,6 +77,41 @@
           <Data name="target_url"><value>https://andradelawmn.com/locations/maplewood/</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0125784,45.0361893,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Andrade Law PLLC — Little Canada office (S2 cell 52b2c)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png" width="360" alt=""/><br/>183 Little Canada Rd E #103, Little Canada, MN 55117. Branch office (opened 2026). Shares S2 cell 52b2c with the 1327 and 2079 offices; own building cell 52b2d5e4. Google Maps CID: 13427458875131024987.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N23</value></Data>
+          <Data name="role"><value>office</value></Data>
+          <Data name="street_address"><value>183 Little Canada Rd E #103</value></Data>
+          <Data name="locality"><value>Little Canada</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b2c</value></Data>
+          <Data name="s2_l10"><value>52b2d5</value></Data>
+          <Data name="s2_l13"><value>52b2d5e4</value></Data>
+          <Data name="google_cid"><value>13427458875131024987</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/locations/little-canada/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.0936057,45.0250128,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Andrade Law PLLC — Minneapolis office (S2 cell 52b34)</name>
+        <description><![CDATA[<img src="https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png" width="360" alt=""/><br/>10 S 5th St Ste 800, Minneapolis, MN 55402 (Hennepin County). Downtown branch office (opened 2026). S2 cell 52b34 — the firm's second office anchor cell, sibling of 52b2c under level-5 parent 52b4. No Google Maps CID is asserted; the listing does not exist yet.]]></description>
+        <ExtendedData>
+          <Data name="node_id"><value>N24</value></Data>
+          <Data name="role"><value>office</value></Data>
+          <Data name="street_address"><value>10 S 5th St Ste 800</value></Data>
+          <Data name="locality"><value>Minneapolis</value></Data>
+          <Data name="region"><value>MN</value></Data>
+          <Data name="s2_l7"><value>52b34</value></Data>
+          <Data name="s2_l10"><value>52b333</value></Data>
+          <Data name="s2_l13"><value>52b33294</value></Data>
+          <Data name="coord_precision"><value>verified</value></Data>
+          <Data name="target_url"><value>https://andradelawmn.com/locations/minneapolis/</value></Data>
+        </ExtendedData>
+        <Point><coordinates>-93.2719249,44.9798734,0</coordinates></Point>
       </Placemark>
     </Folder>
     <Folder>
