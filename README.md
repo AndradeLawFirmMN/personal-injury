@@ -9,7 +9,7 @@ Everything lives in [`geo/`](geo/).
 | File | Contents |
 |---|---|
 | [`geo/spatial_index.csv`](geo/spatial_index.csv) | 24 nodes — the four offices (Saint Paul, Maplewood, Little Canada, Minneapolis), the Saint Paul service-area core, Ramsey County, and eighteen landmarks from the firm's points-of-interest guides (courts, the State Capitol, hospitals and clinics, police records counters in three cities, a city hall, the impound lot, the arena, and two post-crash vehicle stops) — with WGS84 coordinates, S2 cells (L7/L10/L13), verified Wikidata QIDs where one exists, and photo URLs where the firm has published real photographs (the linked images are © Andrade Law PLLC, not part of the CC-BY dataset) |
-| [`geo/service-area.kml`](geo/service-area.kml) | The 13 coordinate-bearing nodes as placemarks **plus** the boundary polygons of the 17 served municipalities and Ramsey County |
+| [`geo/service-area.kml`](geo/service-area.kml) | The 13 coordinate-bearing nodes as placemarks **plus** the boundary polygons of the 17 served municipalities and Ramsey County. The 17 include Minneapolis (Hennepin County), published since 2026-08-01; the Minneapolis office (N24, 2026-09-08, DEC-0043) sits inside that polygon and carries Google Maps CID 4809824103375888009 as of 2026-09-08 |
 | [`geo/schema.jsonld`](geo/schema.jsonld) | schema.org `Dataset` + `LegalService` graph |
 | [`geo/README.md`](geo/README.md) | Field-level detail and provenance |
 
