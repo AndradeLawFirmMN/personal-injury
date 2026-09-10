@@ -59,6 +59,12 @@
           <Data name="target_url"><value>https://andradelawmn.com/locations/saint-paul/</value></Data>
           <Data name="photo_url"><value>https://andradelawmn.com/assets/andrade-law-saint-paul-office-1327-county-road-d-circle.jpg</value></Data>
           <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/andrade-law-saint-paul-office-andrade-law-branded.jpg</value></Data>
+          <Data name="google_place_id"><value>ChIJT-e2DQPXslIRTju7YxN_bgE</value></Data>
+          <Data name="google_maps_url"><value>https://www.google.com/maps?cid=103159562730421070</value></Data>
+          <Data name="google_kgmid_url"><value>https://www.google.com/search?kgmid=/g/11ylgdnj</value></Data>
+          <Data name="google_review_url"><value>https://search.google.com/local/writereview?placeid=ChIJT-e2DQPXslIRTju7YxN_bgE</value></Data>
+          <Data name="phone"><value>+1-651-800-1313</value></Data>
+          <Data name="website"><value>https://andradelawmn.com/locations/saint-paul/</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0448194,45.0361576,0</coordinates></Point>
       </Placemark>
@@ -79,6 +85,12 @@
           <Data name="target_url"><value>https://andradelawmn.com/locations/maplewood/</value></Data>
           <Data name="photo_url"><value>https://andradelawmn.com/assets/andrade-law-maplewood-office-exterior-entrance.webp</value></Data>
           <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/andrade-law-maplewood-office-andrade-law-branded.jpg</value></Data>
+          <Data name="google_place_id"><value>ChIJEzwFCQDRslIR7Rn2unMW-yg</value></Data>
+          <Data name="google_maps_url"><value>https://www.google.com/maps?cid=2952978666985232877</value></Data>
+          <Data name="google_kgmid_url"><value>https://www.google.com/search?kgmid=/g/11zgg_gh2l</value></Data>
+          <Data name="google_review_url"><value>https://search.google.com/local/writereview?placeid=ChIJEzwFCQDRslIR7Rn2unMW-yg</value></Data>
+          <Data name="phone"><value>+1-651-800-7753</value></Data>
+          <Data name="website"><value>https://andradelawmn.com/locations/maplewood/</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0125784,45.0361893,0</coordinates></Point>
       </Placemark>
@@ -99,6 +111,12 @@
           <Data name="target_url"><value>https://andradelawmn.com/locations/little-canada/</value></Data>
           <Data name="photo_url"><value>https://andradelawmn.com/assets/andrade-law-little-canada-office-building-183-little-canada-rd-e.webp</value></Data>
           <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/andrade-law-little-canada-office-andrade-law-branded.jpg</value></Data>
+          <Data name="google_place_id"><value>ChIJMQ7ZOgDVslIRW9ZZiLTqV7o</value></Data>
+          <Data name="google_maps_url"><value>https://www.google.com/maps?cid=13427458875131024987</value></Data>
+          <Data name="google_kgmid_url"><value>https://www.google.com/search?kgmid=/g/11zdc_hcd7</value></Data>
+          <Data name="google_review_url"><value>https://search.google.com/local/writereview?placeid=ChIJMQ7ZOgDVslIRW9ZZiLTqV7o</value></Data>
+          <Data name="phone"><value>+1-651-461-9766</value></Data>
+          <Data name="website"><value>https://andradelawmn.com/locations/little-canada/</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0936057,45.0250128,0</coordinates></Point>
       </Placemark>
@@ -117,6 +135,12 @@
           <Data name="google_cid"><value>4809824103375888009</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/locations/minneapolis/</value></Data>
+          <Data name="google_place_id"><value>ChIJmdflQAAzs1IRid7U2Yntv0I</value></Data>
+          <Data name="google_maps_url"><value>https://www.google.com/maps?cid=4809824103375888009</value></Data>
+          <Data name="google_kgmid_url"><value>https://www.google.com/search?kgmid=/g/11nvxrv7hp</value></Data>
+          <Data name="google_review_url"><value>https://search.google.com/local/writereview?placeid=ChIJmdflQAAzs1IRid7U2Yntv0I</value></Data>
+          <Data name="phone"><value>+1-612-447-0706</value></Data>
+          <Data name="website"><value>https://andradelawmn.com/locations/minneapolis/</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.2719249,44.9798734,0</coordinates></Point>
       </Placemark>
