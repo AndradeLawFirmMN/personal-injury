@@ -44,7 +44,7 @@
       <name>Offices</name>
       <Placemark>
         <name>Andrade Law PLLC — Office (S2 cell 52b2c)</name>
-        <description><![CDATA[<img src="https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png" width="360" alt=""/><br/>1327 County Rd D Cir, Saint Paul, MN 55109. Verified office coordinates. Google Maps CID: 103159562730421070.]]></description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/andrade-law-saint-paul-office-andrade-law-branded.jpg" width="360" alt=""/><br/>1327 County Rd D Cir, Saint Paul, MN 55109. Verified office coordinates. Google Maps CID: 103159562730421070.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N1</value></Data>
           <Data name="role"><value>office</value></Data>
@@ -57,12 +57,14 @@
           <Data name="google_cid"><value>103159562730421070</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/locations/saint-paul/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/andrade-law-saint-paul-office-1327-county-road-d-circle.jpg</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/andrade-law-saint-paul-office-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0448194,45.0361576,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Andrade Law PLLC — Maplewood office (S2 cell 52b2c)</name>
-        <description><![CDATA[<img src="https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png" width="360" alt=""/><br/>2079 County Rd D E, Maplewood, MN 55109. Branch / principal place of business (MN SOS assumed-name filing 2026-06-03). Shares S2 cell 52b2c with the 1327 office; own building cell 52b2d15c. Google Maps CID: 2952978666985232877.]]></description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/andrade-law-maplewood-office-andrade-law-branded.jpg" width="360" alt=""/><br/>2079 County Rd D E, Maplewood, MN 55109. Branch / principal place of business (MN SOS assumed-name filing 2026-06-03). Shares S2 cell 52b2c with the 1327 office; own building cell 52b2d15c. Google Maps CID: 2952978666985232877.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N7</value></Data>
           <Data name="role"><value>office</value></Data>
@@ -75,6 +77,8 @@
           <Data name="google_cid"><value>2952978666985232877</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/locations/maplewood/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/andrade-law-maplewood-office-exterior-entrance.webp</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/andrade-law-maplewood-office-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0125784,45.0361893,0</coordinates></Point>
       </Placemark>
