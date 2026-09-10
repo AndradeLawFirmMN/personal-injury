@@ -80,7 +80,7 @@
       </Placemark>
       <Placemark>
         <name>Andrade Law PLLC — Little Canada office (S2 cell 52b2c)</name>
-        <description><![CDATA[<img src="https://andradelawmn.com/wp-content/uploads/2026/01/Andrade-Law-Logo.png" width="360" alt=""/><br/>183 Little Canada Rd E #103, Little Canada, MN 55117. Branch office (opened 2026). Shares S2 cell 52b2c with the 1327 and 2079 offices; own building cell 52b2d5e4. Google Maps CID: 13427458875131024987.]]></description>
+        <description><![CDATA[<img src="https://andradelawmn.com/assets/andrade-law-little-canada-office-andrade-law-branded.jpg" width="360" alt=""/><br/>183 Little Canada Rd E #103, Little Canada, MN 55117. Branch office (opened 2026). Shares S2 cell 52b2c with the 1327 and 2079 offices; own building cell 52b2d5e4. Google Maps CID: 13427458875131024987.]]></description>
         <ExtendedData>
           <Data name="node_id"><value>N23</value></Data>
           <Data name="role"><value>office</value></Data>
@@ -93,6 +93,8 @@
           <Data name="google_cid"><value>13427458875131024987</value></Data>
           <Data name="coord_precision"><value>verified</value></Data>
           <Data name="target_url"><value>https://andradelawmn.com/locations/little-canada/</value></Data>
+          <Data name="photo_url"><value>https://andradelawmn.com/assets/andrade-law-little-canada-office-building-183-little-canada-rd-e.webp</value></Data>
+          <Data name="branded_photo_url"><value>https://andradelawmn.com/assets/andrade-law-little-canada-office-andrade-law-branded.jpg</value></Data>
         </ExtendedData>
         <Point><coordinates>-93.0936057,45.0250128,0</coordinates></Point>
       </Placemark>
